@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[calls]]>
+    </line>
+    <line>
+      <![CDATA[calls]]>
+    </line>
+    <line>
+      <![CDATA[calls]]>
+    </line>
+    <line>
+      <![CDATA[chats]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-20T10:31:19 IST" name="Default suite" finished-at="2021-03-20T10:31:19 IST" duration-ms="165">
+    <groups>
+    </groups>
+    <test started-at="2021-03-20T10:31:19 IST" name="Default test" finished-at="2021-03-20T10:31:19 IST" duration-ms="165">
+      <class name="testng.Test1">
+        <test-method signature="calls()[pri:-1, instance:testng.Test1@672872e1]" started-at="2021-03-20T10:31:19 IST" name="calls" finished-at="2021-03-20T10:31:19 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- calls -->
+        <test-method signature="calls()[pri:-1, instance:testng.Test1@672872e1]" started-at="2021-03-20T10:31:19 IST" name="calls" finished-at="2021-03-20T10:31:19 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- calls -->
+        <test-method signature="calls()[pri:-1, instance:testng.Test1@672872e1]" started-at="2021-03-20T10:31:19 IST" name="calls" finished-at="2021-03-20T10:31:19 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- calls -->
+        <test-method signature="chats()[pri:-1, instance:testng.Test1@672872e1]" started-at="2021-03-20T10:31:19 IST" name="chats" finished-at="2021-03-20T10:31:19 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[chats]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- chats -->
+      </class> <!-- testng.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
